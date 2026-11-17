@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.joblib
+# raw IoT-23 data is huge - do not commit it
+data/
+*.labeled
